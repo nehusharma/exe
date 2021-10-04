@@ -1,0 +1,12 @@
+development:
+  password: shptka_366ceac105e8d4a3a9f0d486aa73528c
+  theme_id: "111833088161"
+  store: octavaengineering.myshopify.com
+  proxy: http://localhost:3000
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
+    - ignore.txt
+    - config.yml
+
